@@ -311,11 +311,9 @@ I'm continuously expanding my full-stack development skills and learning modern 
 
 # 📫 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/ajinkya029">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/ajinkya029"> <img src="https://skillicons.dev/icons?i=github" width="45" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/ajinkya-dhatrak/"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" /> </a> </p>
+
+<p align="center"> <a href="https://github.com/ajinkya029">GitHub</a> &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/ajinkya-dhatrak/">LinkedIn</a> &nbsp;•&nbsp; <a href="https://ajinkya029.github.io/Portfolio/">Portfolio</a> </p>
 
 I'm interested in **freelance projects, full-stack development, startup MVPs, backend systems, and interesting software projects.**
 
